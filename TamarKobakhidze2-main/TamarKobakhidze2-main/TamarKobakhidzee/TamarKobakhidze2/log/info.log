@@ -1,0 +1,4 @@
+2023-01-21 21:02:02 INFO  Payment:27 - კომუნალურები გახადილია:Electricity{customerNumber='tako', amount=4.0}
+2023-01-21 21:02:02 INFO  Payment:27 - კომუნალურები გახადილია:Water{customerNumber='beka', amount=32.0}
+2023-01-21 21:02:10 INFO  Payment:27 - კომუნალურები გახადილია:Electricity{customerNumber='tako', amount=4.0}
+2023-01-21 21:02:10 INFO  Payment:27 - კომუნალურები გახადილია:Water{customerNumber='beka', amount=32.0}
